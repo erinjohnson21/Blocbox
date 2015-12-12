@@ -93,7 +93,7 @@ header {
   }
 }
 header img {
-  padding: 10px;
+  padding-top: 12px;
 }
 header nav {
   padding:1em 0;
@@ -107,7 +107,7 @@ header nav ul {
 header nav ul > li {
   list-style-type: none;
   display: inline-block;
-  margin: 0 15px;
+  margin: 0 10px;
 }
 header nav ul > li.btn-outline {
   padding:10px 15px;
